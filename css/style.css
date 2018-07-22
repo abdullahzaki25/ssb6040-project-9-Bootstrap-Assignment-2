@@ -90,6 +90,7 @@ form ul li{
 	border: 1px solid #999;
 	border-radius: 50%;
 	display: inline-block;
+	width: 50px;
 }
 .numbers h3{
 	margin: 10px 0;
